@@ -9,7 +9,7 @@ import (
 	"image"
 	"unsafe"
 
-	"github.com/go-gl/gl/v2.1/gl"
+	"github.com/go-gl/gl/v4.6-core/gl"
 )
 
 // A Font allows rendering of text to an OpenGL context.
